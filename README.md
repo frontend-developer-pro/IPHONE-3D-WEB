@@ -12,7 +12,7 @@
 ## 🔧 What You’ll Learn:
 
 - HTML Structure & Semantics:
-  Learn how to build a clean and accessible HTML layout using semantic tags like <header>, <section>, and <main>. This ensures both SEO and screen-reader friendliness.
+  Learn how to build a clean and accessible HTML layout using semantic tags like header, section, and main. This ensures both SEO and screen-reader friendliness.
   
 - CSS Styling Fundamentals:
   You'll style the page using modern CSS practices including variables, flexbox (df-c-sb, df-c-fc, etc.), typography controls, hover effects, transitions, and background settings to create a premium Apple-inspired feel.
